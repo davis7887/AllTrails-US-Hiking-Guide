@@ -1,6 +1,6 @@
 Data Analysis of Trails
 
-#Top 5 Overall Trails#
+-- Top 5 Overall Trails
 SELECT name, popularity, avg_rating, difficulty_rating, state_name, num_reviews
 FROM analytics_project.alltrails
 ORDER BY avg_rating DESC, num_reviews DESC
