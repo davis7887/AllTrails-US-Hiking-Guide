@@ -1,3 +1,5 @@
+Data Analysis of Trails
+
 #Top 5 Overall Trails#
 SELECT name, popularity, avg_rating, difficulty_rating, state_name, num_reviews
 FROM analytics_project.alltrails
@@ -5,6 +7,7 @@ ORDER BY avg_rating DESC, num_reviews DESC
 LIMIT 5;
 
 
+-- Top 10 Trails by trail features
 
 #fishing#
 SELECT state_name, name, popularity, avg_rating, num_reviews, difficulty_rating,
@@ -61,6 +64,8 @@ FROM analytics_project.alltrails
 WHERE features LIKE "%waterfall%"
 ORDER BY avg_rating DESC, num_reviews DESC
 LIMIT 10;
+
+-- State concentrations of easy/moderate and difficult hikes
 
 #Concentration of easy/moderate hikes per state#
 SELECT COUNT(difficulty_rating) AS easy_mod_difficulty, state_name,
