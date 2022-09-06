@@ -10,7 +10,7 @@ Analysis of AllTrails hiking data to determine top hikes for different features 
 
 ## Tools
 
-* BigQuery SQL server - [View SQL Syntax]
+* BigQuery SQL server - [View SQL Syntax](https://github.com/davis7887/AllTrails-US-Hiking-Guide/blob/main/alltrails.sql)
 * Tableau for visualization - [View Dashboard](https://public.tableau.com/app/profile/danielle.davis5855/viz/USAlltrailsHikingGuide/Dashboard1)
 
 ## Posted In
