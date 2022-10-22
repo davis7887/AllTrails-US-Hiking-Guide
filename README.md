@@ -1,6 +1,6 @@
 # AllTrails-US-Hiking-Guide
 
-## [Tableau Dashboard](https://public.tableau.com/app/profile/danielle.davis5855)
+## [Demo Link](https://public.tableau.com/app/profile/danielle.davis5855/viz/USAlltrailsHikingGuide/Dashboard1)
 
 ## Task
 
