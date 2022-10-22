@@ -1,5 +1,7 @@
 # AllTrails-US-Hiking-Guide
 
+## [Tableau Dashboard](https://public.tableau.com/app/profile/danielle.davis5855)
+
 ## Task
 
 Analysis of AllTrails hiking data to determine top hikes for different features and show state concentrations of hikes based on difficulty level.
@@ -16,7 +18,5 @@ Analysis of AllTrails hiking data to determine top hikes for different features 
 ## Posted In
 
 * [Tableau](https://public.tableau.com/app/profile/danielle.davis5855)
-
-## Dashboard
 
 <img src="https://21066571.fs1.hubspotusercontent-na1.net/hubfs/21066571/alltrailsdashboard.jpg" width="800" height="400" />
